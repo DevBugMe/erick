@@ -1,8 +1,8 @@
 // Initialize Swiper for Projects Slider
 const projectsSwiper = new Swiper('.projects-swiper', {
-    slidesPerView: 2,
-    slidesPerGroup: 2,
-    spaceBetween: 30,
+    slidesPerView: 1,
+    slidesPerGroup: 1,
+    spaceBetween: 20,
     navigation: {
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
